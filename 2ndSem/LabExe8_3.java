@@ -19,14 +19,3 @@ public class LabExe8_3
 	    }
 
 }
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
